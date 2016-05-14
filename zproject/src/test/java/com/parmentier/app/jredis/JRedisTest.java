@@ -1,4 +1,4 @@
-package com.parmentier.app;
+package com.parmentier.app.jredis;
 
 
 import org.junit.Test;
