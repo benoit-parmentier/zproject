@@ -1,4 +1,4 @@
-package com.parmentier.app.stream;
+package com.parmentier.stream;
 
 import org.junit.Test;
 
